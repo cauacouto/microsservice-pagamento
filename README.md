@@ -1,12 +1,16 @@
 # 💳 Microsserviço de Pagamento
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 
+
+![Java](https://img.shields.io/badge/Java-17-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-000?style=for-the-badge&logo=springboot)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Maven](https://img.shields.io/badge/Maven-000?style=for-the-badge&logo=apachemaven)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+---
 Este projeto é um microsserviço responsável pelo processamento de pagamentos dentro de uma arquitetura de microsserviços.
 
 Ele faz parte de um ecossistema distribuído, sendo responsável por receber, validar e processar pagamentos, além de se comunicar com outros serviços através de mensageria.
